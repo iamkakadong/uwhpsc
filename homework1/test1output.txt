@@ -1,0 +1,6 @@
+Code run by IAMKAKADONG
+Environment variable UWHPSC is /Users/tianshuren/GoogleDrive/Learning/git/uwhpsc
+Environment variable MYHPSC is /Users/tianshuren/GoogleDrive/Learning/git/myuwhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
